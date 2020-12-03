@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #9DC9DB;
+}
+
+.btnOperator {
+    width: 130px;
+    height: 60px;
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;
+    background-color: #E9E9E9;
+    
+
+}
+
+.btnNumber {
+    width: 130px;
+    height: 60px;
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;
+    background-color: #fff;
+
+}
+
+.btnNumberzero {
+    width: 130px;
+    height: 60px;
+    font-size: 35px;
+    background-color: #fff;
+    font-family: 'Cabin', sans-serif;
+    border-bottom-left-radius: 13px;
+
+
+}
+
+.equalSign {
+    width: 100%;
+    height: 240px;
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;
+    background-color: #F88764;
+    color: #252525;
+    border-bottom-right-radius: 13px;
+
+}
+
+.decimal {
+    width: 130px;
+    height: 60px;
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;
+    background-color: #fff;
+}
+
+.btnClear {
+    width: 130px;
+    height: 60px;
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;
+    background-color: #fff;
+    
+
+}
+
+.display {
+    width: 487px;
+    height: 60px;
+    text-align: right;
+    padding: 15px;
+    font-size: 45px;
+    background-color: #252525;
+    overflow: hidden;
+    color: #fff;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+
+}
+
+.main {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+   
+}
+
+tr, td {
+    border: none;
+}
+
