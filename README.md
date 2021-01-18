@@ -1,4 +1,4 @@
-# Simple-Calculator-With-Javascript
+# Simple_Calculator_With_Javascript
 
  I made simple calculator with html, css and pure javascript.
 
